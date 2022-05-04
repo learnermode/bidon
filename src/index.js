@@ -26,6 +26,10 @@ const groceriesList = [
     quantity: 1,
   },
   {
+    item: "svalkapow",
+    quantity: 7,
+  },
+  {
     item: "cereal",
     quantity: 6,
   },
