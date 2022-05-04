@@ -18,6 +18,14 @@ const groceriesList = [
     quantity: 4,
   },
   {
+    item: "pasa",
+    quantity: 1,
+  },
+  {
+    item: "bidon",
+    quantity: 1,
+  },
+  {
     item: "cereal",
     quantity: 6,
   },
