@@ -6,11 +6,6 @@ app.use(express.json());
 
 app.listen(PORT, () => console.log(`Running on port:${PORT}`));
 
-app.use(fonts({
-  'csspath': '/css',
-  'fontspath': '/fonts',
-  'fontsdir': './fonts'
-}));
 
 const groceriesList = [
   {
